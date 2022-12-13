@@ -27,5 +27,5 @@
 　ComingSoon
 
 ##6．作者
-　Matsushi
+　Matsushi　
 
